@@ -12,9 +12,6 @@ font-family: 'Roboto', sans-serif;
 
 .movie_card{height: 65vh;
     margin-top: 5rem;
-    background-image: url(`../background-image.jpg`);
-    background: linear-gradient(to right, rgba(10.5, 31.5, 52.5, 1.00) calc((50vw - 170px) - 340px), rgba(10.5, 31.5, 52.5, 0.84) 50%, rgba(10.5, 31.5, 52.5, 0.84) 100%),
-    url(`../images/background-image.jpeg`);
+    background: linear-gradient(to right, rgba(10.5, 31.5, 52.5, 0.2) calc((50vw - 170px) - 340px), rgba(10.5, 31.5, 52.5, 0.84) 50%, rgba(10.5, 31.5, 52.5, 0.84) 100%), url('../images/background-image.jpeg');
 
 }
-   
